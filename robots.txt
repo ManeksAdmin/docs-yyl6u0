@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-ogc1sf.didirdoot.com/sitemap.xml
